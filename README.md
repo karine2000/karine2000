@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![macaquinho] (https://tenor.com/pt-BR/view/margotsprestige-monkey-backpack-gif-2628552583070105159)
 <!--
 **karine2000/karine2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
